@@ -3,7 +3,7 @@
 Vielen Dank für Ihr Interesse, zur Tech-Evangelismus-Initiative beizutragen! Hier sind einige Möglichkeiten, wie Sie helfen können:
 
 ## Inhaltserstellung
-Erstellen Sie ansprechende Lerninhalte, Tutorials und Webinare, die andere inspirieren und unterstützen.
+Erstellen Sie ansprechende Lerninhalte, Tutorials und Webinare, die andere inspirieren und unterstützen. Stellen Sie sicher, dass alle Inhalte klar, präzise und technisch korrekt sind.
 
 ## Veranstaltungen
 Organisieren Sie Community-Events oder Workshops, die den Austausch und das Lernen fördern.
