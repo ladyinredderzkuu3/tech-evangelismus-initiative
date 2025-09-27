@@ -11,5 +11,5 @@ Organisieren Sie Community-Events oder Workshops, die den Austausch und das Lern
 ## Diskussionen
 Nehmen Sie aktiv an Diskussionen und Beiträgen in unserer Community teil, um Ideen und Perspektiven zu teilen.
 
-## Fragen
-Wenn Sie Fragen haben oder Hilfe benötigen, zögern Sie nicht, uns zu kontaktieren!
+## Fragen und Unterstützung
+Wenn Sie Fragen haben oder Hilfe benötigen, zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um zu helfen!
