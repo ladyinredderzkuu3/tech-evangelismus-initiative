@@ -13,3 +13,6 @@ Nehmen Sie aktiv an Diskussionen und Beiträgen in unserer Community teil, um Id
 
 ## Fragen und Unterstützung
 Wenn Sie Fragen haben oder Hilfe benötigen, zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um zu helfen!
+
+## Weitere Informationen
+Bitte beachten Sie auch die Richtlinien für Beiträge, um sicherzustellen, dass Ihr Beitrag unseren Standards entspricht.
