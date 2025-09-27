@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Tech Evangelism Initiative is fully loaded and ready to go!');
+    console.log('Tech Evangelism Initiative has been successfully loaded and is ready to go!');
     // Hier können zukünftige JavaScript-Funktionen hinzugefügt werden.
 });
